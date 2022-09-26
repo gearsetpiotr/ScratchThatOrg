@@ -1,0 +1,13 @@
+{
+    "orgName": "dev+sfdx+personaccounts@gearset.com",
+    "country": "US",
+    "edition": "Developer",
+    "adminEmail": "admin@gearset.com",
+    "description": "Testing scratch org with PersonAccounts enabled",
+    "hasSampleData": "true",
+    "features": ["MultiCurrency", "AuthorApex", "PersonAccounts"],
+    "orgPreferences": {
+      "enabled": ["S1DesktopEnabled", "ChatterEnabled", "CustomTabs"],
+      "disabled": ["IsNameSuffixEnabled"]
+    }
+  }
